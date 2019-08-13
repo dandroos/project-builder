@@ -6,8 +6,23 @@
   "author": "David Andrews",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "commander": "^3.0.0",
     "inquirer": "^6.5.1",
+    "reactstrap": "^8.0.1",
     "shelljs": "^0.8.3"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandroos/project-builder.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/dandroos/project-builder/issues"
+  },
+  "homepage": "https://github.com/dandroos/project-builder#readme"
 }
